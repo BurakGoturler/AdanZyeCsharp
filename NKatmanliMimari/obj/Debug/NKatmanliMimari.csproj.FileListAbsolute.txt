@@ -1,0 +1,17 @@
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe.config
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\bin\Debug\NKatmanliMimari.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.AssemblyReference.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\obj\Debug\NKatmanliMimari.Properties.Resources.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.GenerateResource.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.CoreCompileInputs.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\obj\Debug\NKatmanliMimari.exe
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\obj\Debug\NKatmanliMimari.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\bin\Debug\DataAccessLayer.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\bin\Debug\EntityLayer.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\bin\Debug\LogicLayer.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\bin\Debug\DataAccessLayer.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\bin\Debug\EntityLayer.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\bin\Debug\LogicLayer.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\obj\Debug\NKatmanliMimari.Form1.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\obj\Debug\NKatmanl.E8C0824F.Up2Date

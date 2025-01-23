@@ -1,0 +1,13 @@
+D:\Dosyalarım\Kurslar\Udemy\cSharp\PersonelKayit\bin\Debug\PersonelKayit.exe.config
+D:\Dosyalarım\Kurslar\Udemy\cSharp\PersonelKayit\bin\Debug\PersonelKayit.exe
+D:\Dosyalarım\Kurslar\Udemy\cSharp\PersonelKayit\bin\Debug\PersonelKayit.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\PersonelKayit\obj\Debug\PersonelKayit.csproj.AssemblyReference.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\PersonelKayit\obj\Debug\PersonelKayit.Properties.Resources.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\PersonelKayit\obj\Debug\PersonelKayit.csproj.GenerateResource.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\PersonelKayit\obj\Debug\PersonelKayit.csproj.CoreCompileInputs.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\PersonelKayit\obj\Debug\PersonelKayit.exe
+D:\Dosyalarım\Kurslar\Udemy\cSharp\PersonelKayit\obj\Debug\PersonelKayit.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\PersonelKayit\obj\Debug\PersonelKayit.Frmistatistik.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\PersonelKayit\obj\Debug\PersonelKayit.FrmAnaForm.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\PersonelKayit\obj\Debug\PersonelKayit.FrmGrafikler.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\PersonelKayit\obj\Debug\PersonelKayit.FrmGiris.resources

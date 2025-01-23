@@ -1,0 +1,11 @@
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\LogicLayer\bin\Debug\LogicLayer.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\LogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\LogicLayer\bin\Debug\EntityLayer.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\LogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\LogicLayer\bin\Debug\EntityLayer.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.Up2Date
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.pdb

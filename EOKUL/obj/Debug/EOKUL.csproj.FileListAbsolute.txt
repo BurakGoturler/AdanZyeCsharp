@@ -1,0 +1,16 @@
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\bin\Debug\EOKUL.exe.config
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\bin\Debug\EOKUL.exe
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\bin\Debug\EOKUL.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\obj\Debug\EOKUL.csproj.AssemblyReference.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\obj\Debug\EOKUL.Form1.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\obj\Debug\EOKUL.Properties.Resources.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\obj\Debug\EOKUL.csproj.GenerateResource.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\obj\Debug\EOKUL.csproj.CoreCompileInputs.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\obj\Debug\EOKUL.exe
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\obj\Debug\EOKUL.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\obj\Debug\EOKUL.FrmOgrenciNotlar.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\obj\Debug\EOKUL.FrmOgretmen.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\obj\Debug\EOKUL.FrmKulup.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\obj\Debug\EOKUL.FrmDersler.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\obj\Debug\EOKUL.FrmOgrenci.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EOKUL\obj\Debug\EOKUL.FrmSinavNotlar.resources

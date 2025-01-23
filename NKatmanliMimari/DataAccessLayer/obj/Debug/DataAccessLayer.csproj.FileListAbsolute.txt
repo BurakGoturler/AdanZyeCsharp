@@ -1,0 +1,9 @@
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

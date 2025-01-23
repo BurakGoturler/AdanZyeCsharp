@@ -1,0 +1,15 @@
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\bin\Debug\EntityUrun.exe.config
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\bin\Debug\EntityUrun.exe
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\bin\Debug\EntityUrun.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\obj\Debug\EntityUrun.csproj.AssemblyReference.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\obj\Debug\EntityUrun.Form1.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\obj\Debug\EntityUrun.Properties.Resources.resources
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\obj\Debug\EntityUrun.csproj.GenerateResource.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\obj\Debug\EntityUrun.csproj.CoreCompileInputs.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\obj\Debug\EntityUrun.exe
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\obj\Debug\EntityUrun.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\bin\Debug\EntityFramework.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\bin\Debug\EntityFramework.xml
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dosyalarım\Kurslar\Udemy\cSharp\EntityUrun\obj\Debug\EntityUrun.csproj.Up2Date

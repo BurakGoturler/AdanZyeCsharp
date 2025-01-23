@@ -1,0 +1,6 @@
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Dosyalarım\Kurslar\Udemy\cSharp\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.pdb
