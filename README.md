@@ -4,7 +4,7 @@
  ## 📸 Kurs Kapsamn Yapılan Projelerin Bazı Ekran Görüntüleri  
 
 ### Admin Paneli  
-![Projeye Genel Bakış](Projeye-Ait-Ekran-Görüntüleri/1.png)
+![Projeye Genel Bakış](Projeye-Ait-Ekran-Goruntuleri/1.png)
 ![Projeye Genel Bakış](Projeye-Ait-Ekran-Goruntuleri/2.png)
 ![Projeye Genel Bakış](Projeye-Ait-Ekran-Goruntuleri/3.png)
 ![Projeye Genel Bakış](Projeye-Ait-Ekran-Goruntuleri/4.png)
