@@ -2,7 +2,7 @@
 
 ## 📌 Kaynak
 
-Bu proje, **Murat Yücedağ** tarafından hazırlanan **"[Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti](https://www.udemy.com/course/uygulama-gelistirerek-csharp-ogrenin/)"**  
+Bu proje, **Murat Yücedağ** tarafından hazırlanan **"[Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti](https://www.udemy.com/course/sifirdan-ileri-seviye-csharp-programlama/)"**  
 Udemy eğitim kursu kapsamında geliştirilmiş çeşitli uygulamaları içermektedir.
 
 Kurs boyunca **Hastane Yönetim Paneli** ve **E-Okul** benzeri projeler oluşturulmuştur.
